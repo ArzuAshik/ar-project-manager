@@ -1,0 +1,8 @@
+.text-404 {
+  -webkit-text-fill-color: transparent;
+  font-size: 15vw;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(239 68 68 / var(--tw-text-opacity));
+  line-height: 0.5;
+  margin-bottom: 3rem;
+}
